@@ -67,7 +67,7 @@ function start_act2() {
         </div>
         <br>
 
-        <div id='ut-inp-div' style='text-align: center;'>C &nbsp; = &nbsp; ${matrix_a_inputs}</div>
+        <div id='ut-inp-div' style='text-align: center;'>B &nbsp; = &nbsp; ${matrix_a_inputs}</div>
         <br>
 
         <div style='text-align: center;'><button class='btn btn-info std-btn' onclick='verify_matrix_ut();'  id='temp-btn-123' >Next</button></div>
