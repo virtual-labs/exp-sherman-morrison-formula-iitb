@@ -1,0 +1,20 @@
+[
+   {
+      "question": "This is substantial savings in work since the additional triangular solutions cost only _________",
+      "qid": 1,
+      "option_a": "O(nlogn)",
+      "option_b": "O(logn)",
+      "option_c": "O(n)",
+      "option_d": "O(n<sup>2</sup>)",
+      "correct_option": "d"
+   },
+   {
+      "question": "Sherman-Morrison formula gives inverse of matrix resulting from rank-one change to matrix whose inverse is already known.",
+      "qid": 2,
+      "option_a": "<span style='display: inline-block;'>$$ (A - uv^T)^{-1} =  A^{-1}u(1 - v^TA^{-1}u)^{-1} $$</span>",
+      "option_b": "<span style='display: inline-block;'>$$ (A - uv^T)^{-1} = A^{-1} + A^{-1}u(1 - v^TA^{-1}u)^{-1}v^TA^{-1} $$</span>",
+      "option_c": "<span style='display: inline-block;'>$$ (A - uv^T)^{-1} = A^{-1} + A^{-1}u(1 - v^TA^{-1}u)^{-1} $$</span>",
+      "option_d": "<span style='display: inline-block;'>$$ (A - uv^T)^{-1} =  A^{-1}u(1 - v^TA^{-1}u)^{-1}v^TA^{-1} $$</span>",
+      "correct_option": "b"
+   }
+]
